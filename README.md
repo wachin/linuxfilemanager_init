@@ -7,6 +7,26 @@
 [![License](https://img.shields.io/badge/license-GPLv3-orange)](LICENSE)
 [![Status](https://img.shields.io/badge/status-prototype-informational)](ROADMAP.md)
 
+---
+
+# LinuxFileManager — Initial Snapshot
+
+This repository preserves the initial state of **LinuxFileManager** before further development.
+
+It is kept as a historical reference to document the evolution of the project and allow comparison between the original state and the fully developed version.
+
+## Active Development
+
+Development of LinuxFileManager continues in the following repository:
+
+**https://github.com/wachin/linuxfilemanager**
+
+This repository should be considered a snapshot of the project at its initial stage and is not intended for ongoing development.
+
+---
+
+# Linux File Manager
+
 Lightweight modular file manager for Linux built with Python 3 and PyQt6.
 
 This project aims to provide a familiar, efficient file management workflow while staying fast, simple, and Linux-friendly.
